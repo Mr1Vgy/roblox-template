@@ -1,0 +1,14 @@
+# Project place file
+/roblox-starter.rbxl
+
+# Roblox Studio lock files
+/*.rbxlx.lock
+/*.rbxl.lock
+
+wally.lock
+api_key.txt
+
+.DS_Store
+Packages/
+DevPackages/
+ServerPackages/
